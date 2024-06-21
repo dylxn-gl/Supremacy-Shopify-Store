@@ -2405,6 +2405,7 @@ input[type='checkbox'] {
 }
 
 .header__heading {
+  width: 170.56px;
   margin: 0;
   line-height: 0;
 }
