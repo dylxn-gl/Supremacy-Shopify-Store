@@ -2357,6 +2357,12 @@ input[type="checkbox"] {
   background-color: rgb(var(--color-background));
 }
 
+sticky-header {
+  position: absolute;
+  background: transparent;
+  width: 100%;
+}
+
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
