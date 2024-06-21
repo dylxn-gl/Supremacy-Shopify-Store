@@ -2362,9 +2362,6 @@ input[type="checkbox"] {
 }
 
 .header {
-  position: absolute;
-  background: transparent;
-  width: 100%;
   display: flex;
   justify-content: space-between;
   grid-template-areas: "left-icons heading icons";
