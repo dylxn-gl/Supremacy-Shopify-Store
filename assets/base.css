@@ -2329,7 +2329,6 @@ input[type="checkbox"] {
 .shopify-section-header-sticky {
   position: sticky;
   top: 0;
-  background-color: #ffffff;
 }
 
 .shopify-section-header-hidden {
@@ -2363,11 +2362,6 @@ input[type="checkbox"] {
 }
 
 .header {
-  background-color: transparent;
-  position: absolute;
-  width: 100%;
-  z-index: 3;
-  transition: background-color 0.3s ease;
   display: flex;
   justify-content: space-between;
   grid-template-areas: "left-icons heading icons";
